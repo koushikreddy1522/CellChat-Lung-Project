@@ -1,0 +1,53 @@
+R version 4.6.2 (2026-10-29)
+Platform: aarch64-apple-darwin23
+Running under: macOS Golden Gate 27.0.1
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib 
+LAPACK: /Library/Frameworks/R.framework/Versions/4.6/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.1
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+time zone: Asia/Kolkata
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] future_1.82.0       data.table_1.18.6.1 CellChat_2.2.0.9001 Biobase_2.72.0     
+[5] BiocGenerics_0.58.1 generics_0.1.4      ggplot2_4.0.3       igraph_2.3.4       
+[9] dplyr_1.2.1        
+
+loaded via a namespace (and not attached):
+  [1] pbapply_1.7-5         remotes_2.5.0         rlang_1.3.0           magrittr_2.0.5       
+  [5] clue_0.3-68           GetoptLong_1.1.1      gridBase_0.4-7        otel_0.3.0           
+  [9] matrixStats_1.5.0     compiler_4.6.2        systemfonts_1.3.2     png_0.1-9            
+ [13] callr_3.8.0           vctrs_0.7.3           reshape2_1.4.5        ggalluvial_0.12.6    
+ [17] stringr_1.6.0         pkgconfig_2.0.3       shape_1.4.6.1         crayon_1.5.3         
+ [21] fastmap_1.2.0         backports_1.5.1       ellipsis_0.3.3        labeling_0.4.3       
+ [25] promises_1.5.0        sessioninfo_1.2.4     ps_1.9.3              ragg_1.5.2           
+ [29] network_1.20.0        purrr_1.2.2           cachem_1.1.0          jsonlite_2.0.0       
+ [33] pak_0.11.2            collapse_2.1.9        later_1.4.8           irlba_2.4.1          
+ [37] broom_1.0.13          parallel_4.6.2        cluster_2.1.8.3       R6_2.6.1             
+ [41] bslib_0.12.0          stringi_1.8.9         RColorBrewer_1.1-3    reticulate_1.47.0    
+ [45] car_3.1-5             parallelly_1.50.0     pkgload_1.5.3         jquerylib_0.1.4      
+ [49] Rcpp_1.1.2            iterators_1.0.14      future.apply_1.21.0   usethis_3.2.2        
+ [53] IRanges_2.46.0        FNN_1.1.4.1           httpuv_1.6.17         Matrix_1.7-6         
+ [57] tidyselect_1.2.1      abind_1.4-8           rstudioapi_0.19.0     doParallel_1.0.17    
+ [61] codetools_0.2-20      curl_8.1.0            processx_3.9.0        listenv_1.1.0        
+ [65] pkgbuild_1.4.8        lattice_0.23-1        tibble_3.3.1          plyr_1.8.9           
+ [69] shiny_1.14.0          withr_3.0.3           S7_0.2.2              coda_0.19-4.1        
+ [73] desc_1.4.3            circlize_0.4.18       ggpubr_1.0.0          pillar_1.11.1        
+ [77] BiocManager_1.30.27   carData_3.0-6         rngtools_1.5.2        foreach_1.5.2        
+ [81] stats4_4.6.2          S4Vectors_0.50.3      scales_1.4.0          NMF_0.28             
+ [85] ggnetwork_0.5.14      globals_0.20.0        xtable_1.8-8          glue_1.8.1           
+ [89] tools_4.6.2           BiocNeighbors_2.6.0   RSpectra_0.16-2       ggsignif_0.6.4       
+ [93] registry_0.5-1        fs_2.1.0              cowplot_1.2.0         grid_4.6.2           
+ [97] tidyr_1.3.2           devtools_2.5.2        colorspace_2.1-4      patchwork_1.3.2      
+[101] Formula_1.2-6         cli_3.6.6             textshaping_1.0.5     svglite_2.2.2        
+[105] ComplexHeatmap_2.28.0 gtable_0.3.6          rstatix_1.1.0         sass_0.4.10          
+[109] digest_0.6.39         ggrepel_0.9.8         sna_2.8               rjson_0.2.23         
+[113] farver_2.1.2          memoise_2.0.1         htmltools_0.5.9       lifecycle_1.0.5      
+[117] statnet.common_4.13.0 GlobalOptions_0.1.4   mime_0.13            

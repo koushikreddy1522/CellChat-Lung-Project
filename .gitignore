@@ -1,0 +1,15 @@
+# Large raw dataset
+datasets/
+
+# R temporary and backup files
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj.user/
+
+# Local package library
+renv/library/
+
+# Temporary files
+.DS_Store
+*.tmp

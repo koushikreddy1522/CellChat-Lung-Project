@@ -1,0 +1,4 @@
+CellChat analysis of human lung dataset
+Number of cell types: 9 
+Number of signalling pathways: 50 
+Total predicted cell-cell interactions: 2013 
