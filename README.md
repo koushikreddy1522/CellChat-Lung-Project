@@ -43,6 +43,32 @@ The analysis also examined COLLAGEN-related signalling.
 
 These results suggest that different lung cell populations may participate in several communication pathways.
 
+### Results figures
+
+**1. Overall cell-cell communication network**
+
+![Overall network](results/CellChat_overall_network.png)
+
+**2. Signalling roles of cell populations**
+
+![Signalling roles](results/CellChat_signaling_role_scatter.png)
+
+**3. Incoming signalling pathways**
+
+![Incoming heatmap](results/CellChat_incoming_heatmap_clear.png)
+
+**4. Outgoing signalling pathways**
+
+![Outgoing heatmap](results/CellChat_outgoing_heatmap_clear.png)
+
+**5. COLLAGEN signalling contribution**
+
+![COLLAGEN contribution](results/COLLAGEN_contribution.png)
+
+**6. COLLAGEN signalling network**
+
+![COLLAGEN signalling](results/COLLAGEN_signalling.png)
+
 ## 5. Limitations
 
 Only 1,800 nuclei were used instead of the complete dataset. Although the subset was balanced across the nine cell types, the results may differ if all nuclei are analysed.
